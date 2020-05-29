@@ -1,0 +1,60 @@
+[
+  {
+    "id": "f8ac2bdb-e996-42ce-a854-8ceb0fbd94d7",
+    "data": [
+      {
+        "text": "When do you close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e03eb8b8-7057-4854-9d88-96be3e0ec6f7",
+    "data": [
+      {
+        "text": "Are you open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "430979b2-a725-4203-966b-b90778504096",
+    "data": [
+      {
+        "text": "Are you open right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b252af91-3550-40b2-bc11-c91d21987d4c",
+    "data": [
+      {
+        "text": "What time do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,456 @@
+[
+  {
+    "id": "e8335bfd-9574-444f-a304-d81d34f3c9f4",
+    "data": [
+      {
+        "text": "one",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chocolate smoothie",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e24fe03-c377-4423-a144-01d5ee355579",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vanilla milkshake",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "2%",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": false
+      },
+      {
+        "text": " milk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c68678c-a4ac-4640-be9f-d7fc0ede9eef",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "strawberry smoothie",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d643735e-2777-472b-b3f0-32f3af5127ed",
+    "data": [
+      {
+        "text": "two",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "soy milk chocolate milkshakes",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "509118ef-07bb-482a-bfc8-1240f654c0d7",
+    "data": [
+      {
+        "text": "i\u0027d like to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "rasberry smoothie",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1f76779-f690-4de1-ab19-4b900520205c",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "mocha smoothie",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffb1284e-ca1b-4f6b-9354-d090c176ce1f",
+    "data": [
+      {
+        "text": "I want a pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23419561-5337-454f-ab92-79dca9e2b37a",
+    "data": [
+      {
+        "text": "I want the best ",
+        "userDefined": false
+      },
+      {
+        "text": "veggie",
+        "alias": "pizza_topping",
+        "meta": "@pizza_topping",
+        "userDefined": true
+      },
+      {
+        "text": " pizza.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edbe6e9c-9eb8-41e9-867e-ea2a747d6daa",
+    "data": [
+      {
+        "text": "Can you order a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "alias": "pizza_topping",
+        "meta": "@pizza_topping",
+        "userDefined": true
+      },
+      {
+        "text": " pizza for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3e68c05-5944-434b-a3c4-3182f38462b3",
+    "data": [
+      {
+        "text": "I want to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "179a9e17-0a63-41ad-a481-e88328ccc766",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "alias": "pizza_topping",
+        "meta": "@pizza_topping",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d4fbf48-fbc7-4459-a4b9-1a458abcfbf9",
+    "data": [
+      {
+        "text": "I\u0027d like to order a pizza for pickup in ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa4aa1b0-68dc-4668-8c0a-e708bd395899",
+    "data": [
+      {
+        "text": "I want a pizza with ",
+        "userDefined": false
+      },
+      {
+        "text": "pepper",
+        "alias": "pizza_topping",
+        "meta": "@pizza_topping",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "mushroom",
+        "alias": "pizza_topping",
+        "meta": "@pizza_topping",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "addccae4-dc72-46a9-9b56-c9d5c70d9116",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza with ",
+        "userDefined": false
+      },
+      {
+        "text": "mushrooms",
+        "alias": "pizza_topping",
+        "meta": "@pizza_topping",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bde600f-c4ef-4171-848f-403e301973e5",
+    "data": [
+      {
+        "text": "I want to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza with chicken only",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9d4efcd-08d8-4cab-bd2c-aa9928a36070",
+    "data": [
+      {
+        "text": "I want to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "alias": "pizza_topping",
+        "meta": "@pizza_topping",
+        "userDefined": true
+      },
+      {
+        "text": " pizza for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 PM",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aced9a9d-0cc5-4a1a-9831-8fd5e858aa6e",
+    "data": [
+      {
+        "text": "can I order a cheese pizza for pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
