@@ -1,5 +1,5 @@
 # pizzaBot
-This is a simple chatbot which can be used to order pizzas. As of now, it has only conversational capabilities. More updates will be added soon to make it fully functional.
+This is a simple chatbot which can be used to order pizzas. 
 
 It is built on [**Google Cloud Platform**](https://cloud.google.com) with [**DialogFlow**](https://dialogflow.com).
 
