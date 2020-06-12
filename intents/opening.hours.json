@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "34e13ea3-5aaf-49c2-8ee4-0c71934568f5",
+          "id": "c79e518d-b7c9-4959-84bc-5083ccceb812",
           "required": false,
           "dataType": "@sys.date-time",
           "name": "date-time",
@@ -34,7 +34,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],

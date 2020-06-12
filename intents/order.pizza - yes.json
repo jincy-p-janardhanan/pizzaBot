@@ -1,0 +1,55 @@
+{
+  "id": "10ec4201-f48e-446d-9fc1-9050fa5b28bf",
+  "parentId": "ab709021-3a6f-41ab-995b-c27da4ed255b",
+  "rootParentId": "ab709021-3a6f-41ab-995b-c27da4ed255b",
+  "name": "order.pizza - yes",
+  "auto": true,
+  "contexts": [
+    "orderpizza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderpizza.orderpizza-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f64d5c0d-2c0c-4e3f-94ac-73e5e39d8884",
+          "required": true,
+          "dataType": "@drink_composite",
+          "name": "drink_composite",
+          "value": "$drink_composite",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What drink would you like?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Great! Your drink has been ordered."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

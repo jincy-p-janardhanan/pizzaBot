@@ -6,10 +6,16 @@
   "responses": [
     {
       "resetContexts": false,
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "orderpizza-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
-          "id": "2877f525-1091-40a3-9e2f-68abbd9b267d",
+          "id": "7ec1b891-9b3a-4d32-a2d6-e86830f9a6a8",
           "required": true,
           "dataType": "@sys.time",
           "name": "time",
@@ -31,7 +37,7 @@
           "isList": false
         },
         {
-          "id": "22e3e174-bf05-4e85-9478-2978e04302bc",
+          "id": "b4b77629-dab0-478b-aa8e-6e5e8b40d995",
           "required": true,
           "dataType": "@sys.date",
           "name": "date",
@@ -49,7 +55,7 @@
           "isList": false
         },
         {
-          "id": "7ad2a8a6-5e61-4ef2-9042-54ebd8227ed3",
+          "id": "44fbd15c-08c5-4208-992a-4606b0bfb46a",
           "required": true,
           "dataType": "@pizza_topping",
           "name": "pizza_topping",
@@ -67,7 +73,7 @@
           "isList": true
         },
         {
-          "id": "2abb56d5-d182-444f-b78e-b75b191950ec",
+          "id": "54e42b5d-4853-45c6-a561-4198b77f74db",
           "required": true,
           "dataType": "@size",
           "name": "size",
@@ -83,30 +89,6 @@
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
           "isList": false
-        },
-        {
-          "id": "b34f3a6a-0339-47e1-979c-306b7ba4be06",
-          "required": false,
-          "dataType": "@sys.percentage",
-          "name": "percentage",
-          "value": "$percentage",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        },
-        {
-          "id": "944362d4-8c6d-4c48-b088-425d47857c09",
-          "required": false,
-          "dataType": "@drink_composite",
-          "name": "drink_composite",
-          "value": "$drink_composite",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
         }
       ],
       "messages": [
@@ -114,10 +96,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": [
-            "We have placed your order for a $size $pizza_topping pizza, for pickup $date.original at $time.original. See you then!",
-            "I\u0027ve added your drink order."
-          ]
+          "speech": "We have placed your order for a $size $pizza_topping pizza, for pickup $date.original at $time.original. Would you like a drink with it?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -125,7 +104,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],

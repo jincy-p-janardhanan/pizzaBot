@@ -1,0 +1,40 @@
+[
+  {
+    "value": "chocolate",
+    "synonyms": [
+      "chocolate",
+      "mocha"
+    ]
+  },
+  {
+    "value": "vanilla",
+    "synonyms": [
+      "vanilla"
+    ]
+  },
+  {
+    "value": "strawberry",
+    "synonyms": [
+      "strawberry"
+    ]
+  },
+  {
+    "value": "badam",
+    "synonyms": [
+      "badam",
+      "badam nuts"
+    ]
+  },
+  {
+    "value": "pista",
+    "synonyms": [
+      "pista"
+    ]
+  },
+  {
+    "value": "raspberry",
+    "synonyms": [
+      "raspberry"
+    ]
+  }
+]
