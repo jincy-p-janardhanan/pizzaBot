@@ -7,3 +7,9 @@ I did this project as part of the [**"Building Conversational Experiences with D
 
 
 ![Pizza Cartoon](https://images.vexels.com/media/users/3/197251/isolated/lists/6cfbab7e0350f9ed97967c04f2619d97-cute-chef-with-pizza.png)
+
+GitHub repository for this project: https://github.com/Jincy17/pizzaBot
+
+Find me on GitHub: https://github.com/Jincy17
+
+Find me on LinkedIn: https://www.linkedin.com/in/jincy-p-janardhanan/
