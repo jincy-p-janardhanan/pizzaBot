@@ -10,6 +10,6 @@ I did this project as part of the [**"Building Conversational Experiences with D
 
 GitHub repository for this project: https://github.com/Jincy17/pizzaBot
 
-Find me on GitHub: https://github.com/Jincy17
+Find me on GitHub: https://github.com/jincy-p-janardhanan
 
 Find me on LinkedIn: https://www.linkedin.com/in/jincy-p-janardhanan/
